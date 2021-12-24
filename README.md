@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">
-  I am 20 years old guy who is just passionate about coding. I live in Kraków.
+  I am 21 years old guy who is just passionate about coding. I live in Kraków.
 </h3>
 
 <h3 align="left">Quick info:</h3>
