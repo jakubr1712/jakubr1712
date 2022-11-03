@@ -4,7 +4,7 @@
 </h3>
 
 
-- 💬 Ask me about **anything you want!** 
+💬 Ask me about **anything you want!** 
 
 <h3 align="left">Languages:</h3>
 <p align="left">
