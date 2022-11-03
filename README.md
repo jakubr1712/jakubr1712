@@ -3,11 +3,7 @@
   I am 21 years old guy who is just passionate about coding. I live in Kraków.
 </h3>
 
-<h3 align="left">Quick info:</h3>
 
-- 🔭 I’m currently working on **private project.** 
-- 🌱 I’m currently learning
-**testing library.** 
 - 💬 Ask me about **anything you want!** 
 
 <h3 align="left">Languages:</h3>
